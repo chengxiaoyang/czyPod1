@@ -1,0 +1,6 @@
+framework module TGLYSDK {
+  umbrella header "TGLYSDK.h"
+
+  export *
+  module * { export * }
+}
